@@ -1,7 +1,6 @@
 
-  # Dark Mode AI Image Platform
+  # NEXUS AI AI Image Platform
 
-  This is a code bundle for Dark Mode AI Image Platform. The original project is available at https://www.figma.com/design/IGOGvZT1HnahEzutcxkmaW/Dark-Mode-AI-Image-Platform.
 
   ## Running the code
 
