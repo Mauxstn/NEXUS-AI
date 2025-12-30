@@ -1,5 +1,5 @@
 
-  # NEXUS AI AI Image Platform
+  # NEXUS AI Image Platform
 
 
   ## Running the code
